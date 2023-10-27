@@ -10,3 +10,6 @@ We have used services from picovoice for the voice-control and pyttsx3 for text-
 This base can even be combined with other services to create different Minimates!
 
 These are constantly being updated, with new features like searching the web for news and exploring the environment coming along the way.
+
+
+Here's a video to learn about minimate: https://youtu.be/C-nmJdpLueg
